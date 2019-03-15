@@ -11,5 +11,5 @@ A console program to play Tic Tac Toe against computer opponent
 
 ## Install & Run 
 - Install java 11, download [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
-- Git clone [https://github.com/putragraha/TicTacToe.git] (https://github.com/putragraha/TicTacToe.git)
+- Git clone https://github.com/putragraha/TicTacToe.git
 - Open with IDE or any Editor, Compile & Run
